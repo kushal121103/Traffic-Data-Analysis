@@ -28,6 +28,8 @@ Data Analysis
 
 3)Lighting condition impacts
 
+<img width="1374" height="776" alt="Screenshot 2026-03-18 172135" src="https://github.com/user-attachments/assets/17323466-307c-4477-b4bd-79f78c12a4cc" />
+
 ## **SQL Highlights**
 The SQL script includes 15 analytical objectives that:
 
